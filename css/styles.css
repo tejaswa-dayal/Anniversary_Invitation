@@ -64,7 +64,7 @@ body {
   line-height: 1.5;
   margin-left: 1.5rem;
   /* font-size: 0.875rem; */
-  background:#FFFC6D url("./images/main.png");
+  background:#FFFC6D url("/images/main.png");
   background-size: 25%;
   background-position: center center;
   background-attachment: fixed;
