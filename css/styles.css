@@ -65,7 +65,7 @@ body {
   margin-left: 1.5rem;
   /* font-size: 0.875rem; */
   background:#FFFC6D url("../images/main.png");
-  background-size: 100%;
+  background-size: 100vh;
   background-position: center center;
   background-attachment: fixed;
 }
